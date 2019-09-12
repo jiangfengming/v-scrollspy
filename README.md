@@ -3,6 +3,12 @@ A Vue scrollspy directive using the [Intersection Observer API](https://develope
 
 It's a thin wrapper of [@jfm/scrollspy](https://github.com/jiangfengming/scrollspy) library.
 
+## Install
+
+```
+npm install v-scrollspy
+```
+
 ## Usage
 
 ```html
