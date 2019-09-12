@@ -1,0 +1,40 @@
+{
+  "name": "v-scrollspy",
+  "version": "0.0.0",
+  "description": "A Vue scrollspy directive using the Intersection Observer API.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --config dev/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangfengming/v-scrollspy.git"
+  },
+  "keywords": [
+    "scrollspy"
+  ],
+  "author": "Jiang Fengming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangfengming/v-scrollspy/issues"
+  },
+  "homepage": "https://github.com/jiangfengming/v-scrollspy#readme",
+  "dependencies": {
+    "@jfm/scrollspy": "^0.1.1"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "eslint": "^6.3.0",
+    "eslint-config-enough": "^0.3.8",
+    "eslint-loader": "^3.0.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "file-loader": "^4.2.0",
+    "style-loader": "^1.0.0",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
