@@ -1,6 +1,6 @@
 {
   "name": "v-scrollspy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Vue scrollspy directive using the Intersection Observer API.",
   "main": "index.js",
   "scripts": {
